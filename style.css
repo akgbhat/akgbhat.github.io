@@ -1,0 +1,26 @@
+body {
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 5px;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 1.6em;
+  background-color: #073044;
+  color: white;
+  text-align: justify;
+}
+h1{
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+h2, h3 {
+  padding-top: 10px;
+  font-weight: strong;
+  color: #cc2936;
+}
+a{
+color: #f0803c;
+}
+ul, li{
+list-style-position: outside;
+}

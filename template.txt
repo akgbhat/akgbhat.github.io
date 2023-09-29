@@ -1,0 +1,14 @@
+<!DOCTYPE HTML5>
+<html>
+<head>
+<title> AKGB's eJournal </title>
+</head>
+
+<body>
+<h1>#add header here</h1>
+
+#content goes below
+
+
+</body>
+</html>
