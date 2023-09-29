@@ -24,3 +24,9 @@ color: #f0803c;
 ul, li{
 list-style-position: outside;
 }
+
+footer{
+padding-top:20px;
+padding-bottom:20px;
+text-align:center;
+}
