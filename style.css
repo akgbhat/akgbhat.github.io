@@ -7,14 +7,14 @@ body {
   line-height: 1.6em;
   background-color: #073044;
   color: white;
-  text-align: justify;
+  text-align: left;
 }
 h1{
-  padding-top: 50px;
-  padding-bottom: 10px;
+  padding-top: 80px;
+  padding-bottom: 20px;
 }
 h2, h3 {
-  padding-top: 10px;
+  padding-top: 20px;
   font-weight: strong;
   color: #cc2936;
 }
