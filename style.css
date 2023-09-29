@@ -10,11 +10,11 @@ body {
   text-align: left;
 }
 h1{
-  padding-top: 80px;
-  padding-bottom: 20px;
+  padding-top: 50px;
+  padding-bottom: 10px;
 }
 h2, h3 {
-  padding-top: 20px;
+  padding-top: 10px;
   font-weight: strong;
   color: #cc2936;
 }
