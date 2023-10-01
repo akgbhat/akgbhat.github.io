@@ -9,8 +9,13 @@ body {
   color: white;
   text-align: left;
 }
-h1,h2, h3 {
+h2,h3{
   padding-top: 10px;
+  font-weight: strong;
+  color: #6DF1FF;
+}
+h1{
+  padding-top: 50px;
   font-weight: strong;
   color: #6DF1FF;
 }
@@ -21,7 +26,6 @@ ul, li{
 text-indent: -24px; /* key property */
 margin-left: 20px; 
 }
-
 footer{
 padding-top:20px;
 padding-bottom:20px;
