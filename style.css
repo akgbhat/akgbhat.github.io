@@ -5,24 +5,21 @@ body {
   font-family: Georgia, serif;
   font-size: 18px;
   line-height: 1.6em;
-  background-color: #073044;
+  background-color: #031C2A;
   color: white;
   text-align: left;
 }
-h1{
-  padding-top: 50px;
-  padding-bottom: 10px;
-}
-h2, h3 {
+h1,h2, h3 {
   padding-top: 10px;
   font-weight: strong;
-  color: #cc2936;
+  color: #6DF1FF;
 }
 a{
-color: #f0803c;
+color: #8AFFCD;
 }
 ul, li{
-list-style-position: outside;
+text-indent: -24px; /* key property */
+margin-left: 20px; 
 }
 
 footer{
