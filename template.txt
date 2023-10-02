@@ -1,14 +1,21 @@
 <!DOCTYPE HTML5>
 <html>
 <head>
-<title> AKGB's eJournal </title>
+<title> AkGB's Blog </title>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-<h1>#add header here</h1>
+<h1>Arunkumar Govinda Bhat.</h1>
+<p>• <a href="index.html" style="text-decoration:none">Home</a> • <a href="blog.html" style="text-decoration:none">Blog</a> • <a href="projects.html" style="text-decoration:none">Projects</a> • <a href="connect.html" style="text-decoration:none">Connect</a> • </p>
+<hr>
 
-#content goes below
 
 
+<footer>
+<h6>Built by AKGBHAT<br>
+Maintained with ♥ for the web.<br>
+The content for this site is <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.en">CC-BY-SA 4.0</a>.</h6>
+</footer>
 </body>
 </html>
