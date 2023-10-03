@@ -1,11 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body {
   max-width: 40em;
-  margin: 0;
+  margin: auto;
   padding: 5px;
   font-family: Georgia, serif;
   font-size: 18px;
@@ -28,7 +23,7 @@ a{
 color: #8AFFCD;
 }
 ul, li{
-text-indent: -24px; /* key property */
+text-indent: -24px;
 margin-left: 20px; 
 }
 footer{
