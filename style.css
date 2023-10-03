@@ -1,5 +1,10 @@
+html{
+height:100%;
+}
+
 body {
   max-width: 45em;
+  min-height:100%;
   margin: 0 auto;
   padding: 5px;
   font-family: Georgia, serif;
