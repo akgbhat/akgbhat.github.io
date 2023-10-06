@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Gurajada
+- Font Author: Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org)
+- Font Source: http://fonts.gstatic.com/s/gurajada/v19/FwZY7-Qx308m-l-0Kd6A4sijpFu_.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
